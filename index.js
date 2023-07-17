@@ -14,3 +14,15 @@ function laCajaDePandora(numero){
 }
 
 console.log(laCajaDePandora(10));
+
+
+
+
+// En el mismo archivo index.js debes crear una función con tu nombre y debe retornar un objeto con tu nombre, tu edad y tu nacionalidad. (recuerda hacer commit y push)
+function AlejoC137() {
+    return {
+      nombre: 'Alejandro Patiño',
+      edad: '28',
+      nacionalidad: 'Colombiana'
+    };
+  }
