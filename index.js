@@ -8,6 +8,6 @@ function laCajaDePandora(numero) {
         return numero.toString(16); // Conversión a hexadecimal
     }
 }
-// console.log(laCajaDePandora(10)); 
-console.log(laCajaDePandora(15)); 
+console.log(laCajaDePandora(10)); 
+// console.log(laCajaDePandora(11)); 
 
